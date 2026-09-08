@@ -30,6 +30,4 @@ Java Full Stack Engineer with hands-on experience building secure, scalable, and
 
 <a href="https://github.com/jadeteja" align="left">GITHUB</a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center">dailycodingproblem<a href="https://github.com/jadeteja/dailycodingproblem" align="left"></a></div><br /><br /><br /><br /><br /><br /><br />
