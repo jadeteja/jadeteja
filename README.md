@@ -32,4 +32,4 @@ Java Full Stack Engineer with hands-on experience building secure, scalable, and
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/jadeteja/dailycodingproblem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jadeteja&repo=dailycodingproblem&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
