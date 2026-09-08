@@ -28,8 +28,8 @@ Java Full Stack Engineer with hands-on experience building secure, scalable, and
 
 <a href="http://www.github.com/jadeteja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jadeteja&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/jadeteja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeteja&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jadeteja" align="left">GITHUB</a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/jadeteja/dailycodingproblem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jadeteja&repo=dailycodingproblem&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">dailycodingproblem<a href="https://github.com/jadeteja/dailycodingproblem" align="left"></a></div><br /><br /><br /><br /><br /><br /><br />
